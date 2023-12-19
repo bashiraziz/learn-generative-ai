@@ -9,3 +9,4 @@ async def main():
     await async_func()
 
 asyncio.run(main())
+
